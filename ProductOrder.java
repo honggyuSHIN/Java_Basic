@@ -1,4 +1,4 @@
-package class01.ex;
+package ref.exMine;
 
 public class ProductOrder {
     String productName;

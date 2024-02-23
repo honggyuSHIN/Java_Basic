@@ -1,9 +1,7 @@
-package extends01.super01;
+package poly.basic;
 
 public class Parent {
-    public String value = "parent";
-
-    public void hello() {
-        System.out.println("Parent.hello");
+    public void parentMethod() {
+        System.out.println("Parent.parentMethod");
     }
 }

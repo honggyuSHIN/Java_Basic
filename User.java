@@ -1,6 +1,7 @@
-package com.helloshop.user;
+package pack.b;
 
 public class User {
-    String userId;
-    String name;
+    public User() {
+        System.out.println("패키지 pack.b 회원 생성");
+    }
 }
